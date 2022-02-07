@@ -1,0 +1,21 @@
+* {
+  margin:0;
+}
+.App {
+ height:100vh;
+ width:100vw;
+ margin: 20px;
+}
+a {
+  margin-bottom: 20px;
+}
+html {
+  background-color: aqua;
+}
+.Spp {
+  margin-bottom: 20px;
+}
+li::marker {
+  color: red;
+  font-size: 2em;
+}
